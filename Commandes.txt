@@ -1,0 +1,36 @@
+########################### CLIENT 1 ####################################
+
+NEWPL amira111 5656***
+LIST? 1***
+SIZE? 1***
+GAME?***
+START***
+
+----------------PARTIE COMMENCE ------------------------
+
+
+SEND? aurelie1 Je vais te battre !***
+IQUIT***
+
+
+########################### CLIENT 2 ####################################
+
+REGIS aurelie1 4545 1***
+UNREG***
+REGIS aurelie1 4545 1***
+GAME?***
+START***
+
+----------------PARTIE COMMENCE ------------------------
+GLIS?***
+MALL? amira111 me dit qu'elle va me battre hahahaha***
+
+--------------------------
+    Les mouvements       |
+                         |
+  UPMOV 003 001***       |
+  DOMOV 010 005***       |
+  LEMOV 009 002***       |
+  RIMOV 004 010***       |                         |
+                         |
+--------------------------
